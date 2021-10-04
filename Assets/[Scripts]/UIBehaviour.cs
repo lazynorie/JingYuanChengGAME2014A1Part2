@@ -1,3 +1,11 @@
+/*
+ * UIBehavious.cs Made by Jing Yuan Cheng 
+ * Student number: 101257237
+ * Date last modified: Oct 3 2021
+ * this file is for UI behaviours
+ */
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -23,4 +31,16 @@ public class UIBehaviour : MonoBehaviour
     {
         SceneManager.LoadScene(previousSceneIndex);
     }
+
+    public void onMainMenuButtonPress()
+    {
+        SceneManager.LoadScene("Start");
+    }
+
+    public void onHelpButtonPressed()
+    {
+        SceneManager.LoadScene("Help");
+    }
+    
+    
 }

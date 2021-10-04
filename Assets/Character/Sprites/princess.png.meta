@@ -1,7 +1,439 @@
 fileFormatVersion: 2
 guid: e1137619e242e004eb73dbdf537fa66f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3887782371920749848
+    second: princess_0
+  - first:
+      213: -8979119061319833446
+    second: princess_1
+  - first:
+      213: -3397445869433751594
+    second: princess_2
+  - first:
+      213: 2573032968431924957
+    second: princess_3
+  - first:
+      213: -1512818401438674807
+    second: princess_4
+  - first:
+      213: -1005820401840750331
+    second: princess_5
+  - first:
+      213: 2040258496067458805
+    second: princess_6
+  - first:
+      213: -472074691443698818
+    second: princess_7
+  - first:
+      213: -565337463462988612
+    second: princess_8
+  - first:
+      213: -859156713692151292
+    second: princess_9
+  - first:
+      213: -3760432693835342218
+    second: princess_10
+  - first:
+      213: -4104587925388880667
+    second: princess_11
+  - first:
+      213: -2862166588437744956
+    second: princess_12
+  - first:
+      213: -4790750651535757983
+    second: princess_13
+  - first:
+      213: -2820186382680914275
+    second: princess_14
+  - first:
+      213: 5717248955131198420
+    second: princess_15
+  - first:
+      213: -8872462638839983936
+    second: princess_16
+  - first:
+      213: -4519770935682635987
+    second: princess_17
+  - first:
+      213: 5971686171258548038
+    second: princess_18
+  - first:
+      213: -1300658904376980121
+    second: princess_19
+  - first:
+      213: 5056801339042216307
+    second: princess_20
+  - first:
+      213: -7298461996207914353
+    second: princess_21
+  - first:
+      213: -7309720191878784670
+    second: princess_22
+  - first:
+      213: -299548913562042136
+    second: princess_23
+  - first:
+      213: 463316633853670905
+    second: princess_24
+  - first:
+      213: 1519519781121613791
+    second: princess_25
+  - first:
+      213: 1587925053156294468
+    second: princess_26
+  - first:
+      213: -1078927019436908975
+    second: princess_27
+  - first:
+      213: 5198789300844769397
+    second: princess_28
+  - first:
+      213: 7030562289154167085
+    second: princess_29
+  - first:
+      213: 9161936525139231823
+    second: princess_30
+  - first:
+      213: -7289262397794308586
+    second: princess_31
+  - first:
+      213: 7371831424162754497
+    second: princess_32
+  - first:
+      213: -3300997042030850331
+    second: princess_33
+  - first:
+      213: 8605630694551443544
+    second: princess_34
+  - first:
+      213: -8314708844365124279
+    second: princess_35
+  - first:
+      213: -5000315510029888359
+    second: princess_36
+  - first:
+      213: 611990086538232917
+    second: princess_37
+  - first:
+      213: 7070260778250120076
+    second: princess_38
+  - first:
+      213: 7698086647143281884
+    second: princess_39
+  - first:
+      213: -3622114763214748381
+    second: princess_40
+  - first:
+      213: -1516585208367701243
+    second: princess_41
+  - first:
+      213: 8979528682273271049
+    second: princess_42
+  - first:
+      213: -6284145954709940026
+    second: princess_43
+  - first:
+      213: -2118746003798339099
+    second: princess_44
+  - first:
+      213: 8756221574877259640
+    second: princess_45
+  - first:
+      213: 3798459221631059015
+    second: princess_46
+  - first:
+      213: -7845455023607647200
+    second: princess_47
+  - first:
+      213: -5942955730440736587
+    second: princess_48
+  - first:
+      213: -3084043293791733611
+    second: princess_49
+  - first:
+      213: 962450367702429881
+    second: princess_50
+  - first:
+      213: -5450208249696063762
+    second: princess_51
+  - first:
+      213: -8725191504367187144
+    second: princess_52
+  - first:
+      213: 4978897882444953665
+    second: princess_53
+  - first:
+      213: -4113208799743014553
+    second: princess_54
+  - first:
+      213: -1671221822574033236
+    second: princess_55
+  - first:
+      213: 1262668491526480745
+    second: princess_56
+  - first:
+      213: 1208555365661221076
+    second: princess_57
+  - first:
+      213: -7881259304283521606
+    second: princess_58
+  - first:
+      213: 4239391577801095453
+    second: princess_59
+  - first:
+      213: -2825056397597753409
+    second: princess_60
+  - first:
+      213: -1775461561286564636
+    second: princess_61
+  - first:
+      213: 479112196112885042
+    second: princess_62
+  - first:
+      213: -1305609382461362068
+    second: princess_63
+  - first:
+      213: 6289525632193431724
+    second: princess_64
+  - first:
+      213: 5032851917546220943
+    second: princess_65
+  - first:
+      213: 4193742971900424310
+    second: princess_66
+  - first:
+      213: 661913341421393117
+    second: princess_67
+  - first:
+      213: -5088669832232474580
+    second: princess_68
+  - first:
+      213: 2228691026033125248
+    second: princess_69
+  - first:
+      213: -47858005691080456
+    second: princess_70
+  - first:
+      213: -2690172121678537031
+    second: princess_71
+  - first:
+      213: -2104095023514421639
+    second: princess_72
+  - first:
+      213: 2572671622872034104
+    second: princess_73
+  - first:
+      213: 2816928075451149802
+    second: princess_74
+  - first:
+      213: 3775357833637403590
+    second: princess_75
+  - first:
+      213: 7820386786603852295
+    second: princess_76
+  - first:
+      213: -6686405171794604319
+    second: princess_77
+  - first:
+      213: 4728992167398656662
+    second: princess_78
+  - first:
+      213: -7839175747564809079
+    second: princess_79
+  - first:
+      213: 7149258900140486374
+    second: princess_80
+  - first:
+      213: 2193606342960547622
+    second: princess_81
+  - first:
+      213: -4904746636982589607
+    second: princess_82
+  - first:
+      213: -5761851274837490739
+    second: princess_83
+  - first:
+      213: 4704025604341319846
+    second: princess_84
+  - first:
+      213: -2355332744861710663
+    second: princess_85
+  - first:
+      213: -442936313736374710
+    second: princess_86
+  - first:
+      213: 5282979250884420019
+    second: princess_87
+  - first:
+      213: 1573278049388994921
+    second: princess_88
+  - first:
+      213: 7900177777597313425
+    second: princess_89
+  - first:
+      213: 8820158100408911323
+    second: princess_90
+  - first:
+      213: 1569350011323698880
+    second: princess_91
+  - first:
+      213: -772427699504291327
+    second: princess_92
+  - first:
+      213: -970121917731789839
+    second: princess_93
+  - first:
+      213: -7568357125291722242
+    second: princess_94
+  - first:
+      213: 6961280619171877286
+    second: princess_95
+  - first:
+      213: 7486582910147961685
+    second: princess_96
+  - first:
+      213: -6088065168127111932
+    second: princess_97
+  - first:
+      213: 1813613541023684603
+    second: princess_98
+  - first:
+      213: 7870795432831069434
+    second: princess_99
+  - first:
+      213: -7617932910953935748
+    second: princess_100
+  - first:
+      213: -3005226847779408929
+    second: princess_101
+  - first:
+      213: -2305217825428533989
+    second: princess_102
+  - first:
+      213: -4772864896234423783
+    second: princess_103
+  - first:
+      213: 7963340268255745678
+    second: princess_104
+  - first:
+      213: 6759735796547233338
+    second: princess_105
+  - first:
+      213: -6037184961757678250
+    second: princess_106
+  - first:
+      213: 5138900466018446105
+    second: princess_107
+  - first:
+      213: 3126770168081896533
+    second: princess_108
+  - first:
+      213: 431321126328352204
+    second: princess_109
+  - first:
+      213: -3436702767267044937
+    second: princess_110
+  - first:
+      213: 8490740815449900168
+    second: princess_111
+  - first:
+      213: 5417863677391390711
+    second: princess_112
+  - first:
+      213: -3999841685716616420
+    second: princess_113
+  - first:
+      213: -8009389971386521700
+    second: princess_114
+  - first:
+      213: 4650166019194409040
+    second: princess_115
+  - first:
+      213: 1556497389296547666
+    second: princess_116
+  - first:
+      213: 6203739118043274764
+    second: princess_117
+  - first:
+      213: -1915433975252868602
+    second: princess_118
+  - first:
+      213: -8274626670209281300
+    second: princess_119
+  - first:
+      213: -3691292745706235227
+    second: princess_120
+  - first:
+      213: -790038385417832370
+    second: princess_121
+  - first:
+      213: 758141509647041291
+    second: princess_122
+  - first:
+      213: 214144733238138650
+    second: princess_123
+  - first:
+      213: 780102929932760999
+    second: princess_124
+  - first:
+      213: -7828791451905649119
+    second: princess_125
+  - first:
+      213: 474617208319906750
+    second: princess_126
+  - first:
+      213: 7271544022418350141
+    second: princess_127
+  - first:
+      213: 8315683502427505213
+    second: princess_128
+  - first:
+      213: -6201076812959192724
+    second: princess_129
+  - first:
+      213: 8678196982945396786
+    second: princess_130
+  - first:
+      213: 1531932234609586273
+    second: princess_131
+  - first:
+      213: 5816353761020463551
+    second: princess_132
+  - first:
+      213: 2703056776498169425
+    second: princess_133
+  - first:
+      213: 4371293786255227726
+    second: princess_134
+  - first:
+      213: 5703680059364758680
+    second: princess_135
+  - first:
+      213: 6447126382383575344
+    second: princess_136
+  - first:
+      213: -5579906250797620189
+    second: princess_137
+  - first:
+      213: 4734549096325947545
+    second: princess_138
+  - first:
+      213: 2083618824998616990
+    second: princess_139
+  - first:
+      213: 8451311714760827569
+    second: princess_140
+  - first:
+      213: 1430260216338014446
+    second: princess_141
+  - first:
+      213: 5322337827832044820
+    second: princess_142
+  - first:
+      213: -5501005908008986908
+    second: princess_143
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,11 +473,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -75,9 +507,825 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: princess_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea53a5f782db0ac0800000000000000
+      internalID: -3887782371920749848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a71289c2c36380800000000000000
+      internalID: -8979119061319833446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d778c07bf8d9d0d0800000000000000
+      internalID: -3397445869433751594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f0ce2adf35b320800000000000000
+      internalID: 2573032968431924957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d29cdda3610be0800000000000000
+      internalID: -1512818401438674807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50101707cab9a02f0800000000000000
+      internalID: -1005820401840750331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d21cda44705c10800000000000000
+      internalID: 2040258496067458805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73db0db19ad279f0800000000000000
+      internalID: -472074691443698818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4711082948728f0800000000000000
+      internalID: -565337463462988612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ccf95589a314f0800000000000000
+      internalID: -859156713692151292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67edd2a736240dbc0800000000000000
+      internalID: -3760432693835342218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e496d567039907c0800000000000000
+      internalID: -4104587925388880667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c23d28f6aa8748d0800000000000000
+      internalID: -2862166588437744956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6db73aa5d38db0800000000000000
+      internalID: -4790750651535757983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9609eb4d6facd8d0800000000000000
+      internalID: -2820186382680914275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db711722afb75f40800000000000000
+      internalID: 5717248955131198420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c094010d3eaed480800000000000000
+      internalID: -8872462638839983936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276080e74c8641c0800000000000000
+      internalID: -4519770935682635987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6af3fee0bfd250800000000000000
+      internalID: 5971686171258548038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d49ae1e9123fde0800000000000000
+      internalID: -1300658904376980121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b459960e5d2640800000000000000
+      internalID: 5056801339042216307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c65dbb77a6ba90800000000000000
+      internalID: -7298461996207914353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269909bc638ae8a90800000000000000
+      internalID: -7309720191878784670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c746a9d9c7dbf0800000000000000
+      internalID: -299548913562042136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b06316080e6600800000000000000
+      internalID: 463316633853670905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdeeea03b661510800000000000000
+      internalID: 1519519781121613791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff2533c61790610800000000000000
+      internalID: 1587925053156294468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e54eb9791e601f0800000000000000
+      internalID: -1078927019436908975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57034f2235fc52840800000000000000
+      internalID: 5198789300844769397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d219a480723919160800000000000000
+      internalID: 7030562289154167085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c9934abcb52f70800000000000000
+      internalID: 9161936525139231823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eabd8287657da90800000000000000
+      internalID: -7289262397794308586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf68456f910e4660800000000000000
+      internalID: 7371831424162754497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec2210ea08032d0800000000000000
+      internalID: -3300997042030850331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858dfe8a5875d6770800000000000000
+      internalID: 8605630694551443544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d61d8fb583c9c80800000000000000
+      internalID: -8314708844365124279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

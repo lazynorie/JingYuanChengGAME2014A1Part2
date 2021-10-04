@@ -38,6 +38,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 1366174443
+    locked: 0
+  - name: Ground Details
+    uniqueID: 2167885577
+    locked: 0
+  - name: Shadow
+    uniqueID: 2818048659
+    locked: 0
+  - name: Props
+    uniqueID: 310155711
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4261933095
+    locked: 0
+  - name: Foreground
+    uniqueID: 1865709725
     locked: 0
