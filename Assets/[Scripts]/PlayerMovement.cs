@@ -145,7 +145,7 @@ public class PlayerMovement : MonoBehaviour
     private void Fire()
     {
         // delay bullet firing 
-        if(Time.frameCount % 60 == 0 && bulletManager.HasBullets())
+        if(Time.frameCount % 120 == 0 && bulletManager.HasBullets())
         {
             bulletManager.GetBullet(transform.position);
         }

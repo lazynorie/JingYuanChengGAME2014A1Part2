@@ -1,10 +1,10 @@
-/// BulletManager.cs
-/// Jing Yuan Cheng 101257237
-/// Last modified: 22/10/2021
-/// This script controlls movements of bullets
-/// version history
-/// Version 1.1 original file
-/// Version 1.2 change the orientation of the bullet movements
+/*
+ * BulletManager.cs by Jing Yuan Cheng 
+ * Student number: 101257237
+ * Date last modified: Oct 24 2021
+ * this file is for UI behaviours
+ * verion 1.1 A1-part2 
+ */
 
 using System.Collections;
 using System.Collections.Generic;

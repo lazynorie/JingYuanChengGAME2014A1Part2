@@ -52,11 +52,8 @@ public class EnenmyController : MonoBehaviour
         }
         else if (other.tag == "FireBall")
         {
-            Debug.Log("Killed");
             enemyManager.ReturnEnemy(gameObject);
         }
-        
-        
     }
 
 }
