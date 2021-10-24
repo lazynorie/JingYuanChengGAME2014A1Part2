@@ -17,7 +17,7 @@ public class ScoreManagerScript : MonoBehaviour
     {
         //scoreText = GetComponent<Text>();
         scoreText.text = "Score: " + 0;
-        lifeText.text = "Life: " + 0;
+        lifeText.text = "Life: " + 5;
     }
 
     // Update is called once per frame
@@ -35,10 +35,12 @@ public class ScoreManagerScript : MonoBehaviour
 
     public void loseLife()
     {
+        checkLife();
         CurrentLife = CurrentLife-1;
         Debug.Log(CurrentLife);
-        //updateLife();
+        updateLife();
         checkLife();
+        
     }
 
     private void checkLife()

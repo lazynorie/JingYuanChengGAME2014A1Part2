@@ -14,7 +14,6 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
-
     public int hp;
     public GameObject fireball;
     public BulletManager bulletManager;
@@ -42,7 +41,6 @@ public class PlayerMovement : MonoBehaviour
     
     void Start()
     {
-       
         m_touchesEnded = new Vector3();
         m_rigidBody = GetComponent<Rigidbody2D>();
     }
@@ -56,6 +54,7 @@ public class PlayerMovement : MonoBehaviour
         CheckBounds();
     }
 
+    //player movement
     private void Move()
     {
         
@@ -127,6 +126,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    //check boundary
     private void CheckBounds()
     {
         //check right bounds
@@ -142,10 +142,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    //player fire bullets
     private void Fire()
     {
         // delay bullet firing 
-        if(Time.frameCount % 120 == 0 && bulletManager.HasBullets())
+        if(Time.frameCount % 240 == 0 && bulletManager.HasBullets())
         {
             bulletManager.GetBullet(transform.position);
         }

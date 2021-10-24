@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class FireBall : MonoBehaviour
 {
+    private AudioSource collectCoin;
+    private AudioSource killenemy;
     public float speed;
     public float veriticalBoundary;
     public BulletManager bulletMgr;
@@ -16,6 +18,7 @@ public class FireBall : MonoBehaviour
     {
         bulletMgr = FindObjectOfType<BulletManager>();
         scoreManager = FindObjectOfType<ScoreManagerScript>();
+        killenemy = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -42,16 +45,21 @@ public class FireBall : MonoBehaviour
     //check if bullets are colliding with other game object. if they are, then return them to the pool
     public void OnTriggerEnter2D(Collider2D other)
     {
+        
         if (other.tag =="Enemy")
         {
+            //killenemy.Play();
             bulletMgr.ReturnBullet(gameObject);
             scoreManager.Score(100);
+            
         }
         
         if (other.tag =="Coin")
         {
+            //killenemy.Play();
             bulletMgr.ReturnBullet(gameObject);
             scoreManager.Score(50);
+           
         }
         
     }

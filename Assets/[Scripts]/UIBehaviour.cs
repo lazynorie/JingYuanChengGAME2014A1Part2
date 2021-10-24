@@ -14,6 +14,7 @@ using UnityEngine.SceneManagement;
 
 public class UIBehaviour : MonoBehaviour
 {
+    private AudioSource clickSound;
     private int nextSceneIndex;
     private int previousSceneIndex;
 
@@ -21,29 +22,32 @@ public class UIBehaviour : MonoBehaviour
     {
         nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
         previousSceneIndex = SceneManager.GetActiveScene().buildIndex - 1;
+        clickSound = GetComponent<AudioSource>();
     }
 
     public void OnNextButtonPressed()
     {
+        clickSound.Play();
         SceneManager.LoadScene(nextSceneIndex);
     }
 
     public void OnBackButtonPressed()
     {
+        clickSound.Play();
         SceneManager.LoadScene(previousSceneIndex);
     }
 
     public void onMainMenuButtonPress()
     {
+        clickSound.Play();
         SceneManager.LoadScene("Start");
+        
     }
 
     public void onHelpButtonPressed()
     {
+        clickSound.Play();
         SceneManager.LoadScene("Help");
     }
-    
-    
-    
     
 }
