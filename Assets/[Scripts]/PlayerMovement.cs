@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
 
+    public EnemyManagerScript enemyManager;
     public Animator animator;
     [Header("Player Speed")]
     [SerializeField] 

@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 9ce0f6b5846f4bc469ec646b883dde33
+guid: cf0e1de8c31cd5f478ff67bdb614f2fd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9103656482713568619
-    second: cup_0
+      213: 3162716443692720789
+    second: coin_rot_anim_0
   - first:
-      213: 1804004588942022318
-    second: cup_1
+      213: -5670968620962155112
+    second: coin_rot_anim_1
+  - first:
+      213: -8005292845928860230
+    second: coin_rot_anim_2
+  - first:
+      213: -9218997569804195348
+    second: coin_rot_anim_3
+  - first:
+      213: 3214441109011670551
+    second: coin_rot_anim_4
+  - first:
+      213: 4476140094052129618
+    second: coin_rot_anim_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -50,8 +62,8 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -145,13 +157,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cup_0
+      name: coin_rot_anim_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 32
-        height: 54
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,8 +171,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b650359765fa65e70800000000000000
-      internalID: 9103656482713568619
+      spriteID: 592679749d934eb20800000000000000
+      internalID: 3162716443692720789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_rot_anim_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f927d51cac41b0800000000000000
+      internalID: -5670968620962155112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_rot_anim_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab53f6b029c77e090800000000000000
+      internalID: -8005292845928860230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_rot_anim_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a1aafd8a8f0080800000000000000
+      internalID: -9218997569804195348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_rot_anim_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ad06682dfb9c20800000000000000
+      internalID: 3214441109011670551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_rot_anim_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5cde23b17e1e30800000000000000
+      internalID: 4476140094052129618
       vertices: []
       indices: 
       edges: []
