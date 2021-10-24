@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41e8f8144917dbf4dbe78646a2054d8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fireball: {fileID: 6374307116332564235, guid: d9fb2d51c8ac0c24780c5f370b30f381, type: 3}
   enemyManager: {fileID: 0}
   animator: {fileID: 4306508339436210453}
   moveSpeed: 1

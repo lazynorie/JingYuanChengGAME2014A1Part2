@@ -6,9 +6,10 @@ public class EnemyManagerScript : MonoBehaviour
 {
     public EnemyFactoryScript EnemeyFactory;
     public int MaxEnemys;
-
+    public int score;
     private Queue<GameObject> m_enemyPool;
 
+    
 
     // Start is called before the first frame update
     void Start()

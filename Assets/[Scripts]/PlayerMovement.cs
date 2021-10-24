@@ -1,8 +1,10 @@
 /*
  * PlayerMovement.cs Made by Jing Yuan Cheng 
  * Student number: 101257237
- * Date last modified: Oct 3 2021
+ * Date last modified: Oct 24 2021
  * this file is for player behaviours
+ * version 1.0 original file
+ * version 1.1 A1 part 2
  */
 
 using System.Collections;
@@ -13,9 +15,11 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
 
+    public int hp;
+    public GameObject fireball;
+    public BulletManager bulletManager;
     public EnemyManagerScript enemyManager;
     public Animator animator;
-    [Header("Player Speed")]
     [SerializeField] 
     private float moveSpeed = 1.0f;
     public float horizontalSpeed;
@@ -46,7 +50,8 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        animator.SetFloat("PlayerSpeed", m_rigidBody.velocity.x);
+        //animator.SetFloat("PlayerSpeed", m_rigidBody.velocity.x);
+        Fire();
         Move();
         CheckBounds();
     }
@@ -135,7 +140,14 @@ public class PlayerMovement : MonoBehaviour
         { 
             transform.position = new Vector3(-horizontalBoundary, transform.position.y, 0.0f);
         }
+    }
 
-        
+    private void Fire()
+    {
+        // delay bullet firing 
+        if(Time.frameCount % 60 == 0 && bulletManager.HasBullets())
+        {
+            bulletManager.GetBullet(transform.position);
+        }
     }
 }

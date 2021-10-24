@@ -1,8 +1,9 @@
 /*
  * UIBehavious.cs Made by Jing Yuan Cheng 
  * Student number: 101257237
- * Date last modified: Oct 3 2021
+ * Date last modified: Oct 24 2021
  * this file is for UI behaviours
+ * verion 1.1 A1-part2 
  */
 
 
@@ -41,6 +42,8 @@ public class UIBehaviour : MonoBehaviour
     {
         SceneManager.LoadScene("Help");
     }
+    
+    
     
     
 }

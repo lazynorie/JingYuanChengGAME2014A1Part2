@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - ScoreManager
+  - Enemy
+  - Bonus
+  - Coin
+  - FireBall
   layers:
   - Default
   - TransparentFX
