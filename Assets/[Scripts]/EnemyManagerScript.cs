@@ -38,12 +38,12 @@ public class EnemyManagerScript : MonoBehaviour
         return newBullet;
     }
 
-    
+    //function check that if these enough enemy in the pool
     public bool HasBullets()
     {
         return m_enemyPool.Count > 0;
     }
-
+    //function that return enemy to the pool
     public void ReturnEnemy(GameObject returnedEnemy)
     {
         returnedEnemy.SetActive(false);

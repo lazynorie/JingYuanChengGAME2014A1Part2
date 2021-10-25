@@ -715,9 +715,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'instruction scene, placeholder.
-
-'
+  m_Text: "tap screen to move\n\ndon't let anyone\npass the line \nof defence!\n"
 --- !u!222 &693267885
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3763,7 +3761,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: de99d1bf41e89364394e0bac8df7cfe5, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7dc49c68632481f4a8511f7177167417, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1

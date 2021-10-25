@@ -554,6 +554,7 @@ GameObject:
   - component: {fileID: 162921790}
   - component: {fileID: 162921792}
   - component: {fileID: 162921791}
+  - component: {fileID: 162921793}
   m_Layer: 5
   m_Name: Text (1)
   m_TagString: Untagged
@@ -624,6 +625,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 162921789}
   m_CullTransparentMesh: 1
+--- !u!114 &162921793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 162921789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9adc9adf46765c040aa5256165161f32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finalscore: {fileID: 162921791}
 --- !u!1 &303215219
 GameObject:
   m_ObjectHideFlags: 0
@@ -1086,7 +1100,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: de99d1bf41e89364394e0bac8df7cfe5, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ad611bf5f4b110143ad3ea2ee12365ed, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1

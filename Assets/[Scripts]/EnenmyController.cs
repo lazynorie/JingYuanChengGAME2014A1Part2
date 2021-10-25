@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnenmyController : MonoBehaviour
 {
+    private AudioSource scoresound;
     public float damage;
     public float score;
     public ScoreManagerScript scoreMgr;
@@ -22,6 +23,7 @@ public class EnenmyController : MonoBehaviour
         e_rigidBody = GetComponent<Rigidbody2D>();
         enemyManager = FindObjectOfType<EnemyManagerScript>();
         scoreMgr = FindObjectOfType<ScoreManagerScript>();
+        scoresound = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -36,6 +38,7 @@ public class EnenmyController : MonoBehaviour
 
     }
 
+    //logic when interacting with other game object
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
@@ -52,6 +55,7 @@ public class EnenmyController : MonoBehaviour
         }
         else if (other.tag == "FireBall")
         {
+            scoresound.Play();
             enemyManager.ReturnEnemy(gameObject);
         }
     }

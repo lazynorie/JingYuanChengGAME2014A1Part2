@@ -19,6 +19,7 @@ public class EnemySpawnPoint : MonoBehaviour
         _SpawnEnemy();
     }
     
+    //function that spawns enemy in certain location
     private void _SpawnEnemy()
     {
         float xValue = Random.Range(-1.0f, 1.0f);

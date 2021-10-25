@@ -13,12 +13,13 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
+    private AudioSource fireBall;
     // Start is called before the first frame update
-    public int hp;
     public GameObject fireball;
     public BulletManager bulletManager;
     public EnemyManagerScript enemyManager;
-    public Animator animator;
+   
     [SerializeField] 
     private float moveSpeed = 1.0f;
     public float horizontalSpeed;
@@ -27,8 +28,7 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("Boundary Check")]
     public float horizontalBoundary;
-
-    public float verticalBoundary;
+    
     
     [Header("Player Firing")]
     public float fireDelay;
@@ -43,6 +43,7 @@ public class PlayerMovement : MonoBehaviour
     {
         m_touchesEnded = new Vector3();
         m_rigidBody = GetComponent<Rigidbody2D>();
+        fireBall = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -148,7 +149,9 @@ public class PlayerMovement : MonoBehaviour
         // delay bullet firing 
         if(Time.frameCount % 240 == 0 && bulletManager.HasBullets())
         {
+            
             bulletManager.GetBullet(transform.position);
+            fireBall.Play();
         }
     }
 }
