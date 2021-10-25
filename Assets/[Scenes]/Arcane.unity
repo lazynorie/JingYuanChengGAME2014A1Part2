@@ -7242,7 +7242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4306508339436210454, guid: fb8c53ac3435d264e8c202b2263c5046, type: 3}
       propertyPath: moveSpeed
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4306508339436210454, guid: fb8c53ac3435d264e8c202b2263c5046, type: 3}
       propertyPath: enemyManager
@@ -7254,7 +7254,7 @@ PrefabInstance:
       objectReference: {fileID: 1696536768}
     - target: {fileID: 4306508339436210454, guid: fb8c53ac3435d264e8c202b2263c5046, type: 3}
       propertyPath: horizontalTValue
-      value: 0.0025
+      value: 0.01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb8c53ac3435d264e8c202b2263c5046, type: 3}
@@ -7480,7 +7480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnemeyFactory: {fileID: 1290002453}
-  MaxEnemys: 20
+  MaxEnemys: 40
   score: 0
 --- !u!4 &1290002452
 Transform:

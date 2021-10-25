@@ -1,3 +1,10 @@
+/*
+ * GameOverScore.cs by Jing Yuan Cheng 
+ * Student number: 101257237
+ * Date last modified: Oct 24 2021
+ * this file is display final score at end scene
+ * verion 1.1 A1-part2 
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
